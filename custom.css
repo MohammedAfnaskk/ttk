@@ -1,0 +1,48 @@
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.icon img {
+    width: 185px;
+    height: 64px;
+}
+
+@media(max-width: 600px) {
+    .icon img {
+        width: 115px;
+        height: 34px;
+    }
+}
+.banner{
+    padding-top: 90px;
+}
+.button-last{
+    padding: 10px;
+    background-color: white;
+    color: rgb(233, 83, 13);
+    border: solid;
+    border-color: red;
+}
+.button-last:hover{
+    background-color: red;
+}
+.last-part{
+    background-color: rgb(47, 53, 53);
+    
+ 
+}
+.youtube{
+    width: 100%;
+    height: 100%;
+}
+
+
+   
+ 
+
+ 
+ 

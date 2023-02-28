@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20.039" viewBox="0 0 20 20.039">
+  <g id="Icon_" data-name="Icon " transform="translate(0 0.039)">
+    <rect id="Area_ICON:feather_shopping-cart_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/shopping-cart][SIZE:LARGE][STYLE:STYLE1]" width="20" height="20" fill="#fcfcfc" opacity="0"/>
+    <g id="Icon" transform="translate(2.504 0.761)">
+      <path id="Path" d="M17.5,8.333c0,5.834-7.5,10.834-7.5,10.834s-7.5-5-7.5-10.834a7.5,7.5,0,1,1,15,0Z" transform="translate(-2.5 -0.833)" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <circle id="Path-2" data-name="Path" cx="2.5" cy="2.5" r="2.5" transform="translate(5 5)" fill="none" stroke="#757575" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>
